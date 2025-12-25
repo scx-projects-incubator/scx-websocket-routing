@@ -95,7 +95,7 @@
     <properties>
 
         <!-- *********************** 以下为依赖包版本 *********************** -->
-        <scx-websocket.version>0.0.2</scx-websocket.version>
+        <scx-websocket.version>0.0.3</scx-websocket.version>
         <scx-http-routing.version>4.0.0-SNAPSHOT</scx-http-routing.version>
         <testng.version>7.11.0</testng.version>
 
